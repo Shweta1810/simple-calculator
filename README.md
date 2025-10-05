@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Calculator in C
 
 A basic C program that performs simple arithmetic operations: addition, subtraction, multiplication, and division.
@@ -12,3 +13,6 @@ A basic C program that performs simple arithmetic operations: addition, subtract
 2. Compile using:
    ```bash
    gcc calculator.c -o calculator
+=======
+# simple-calculator
+>>>>>>> bba05e2d90f646fad2d462d59677f51b37536ab1
